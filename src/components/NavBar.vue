@@ -1,6 +1,6 @@
 <template>
-  <v-app>
-    <v-app-bar color="orange" flat app>
+  <div>
+    <v-app-bar flat app>
       <v-app-bar-nav-icon 
         @click="isDrawer"
         class="hidden-sm-and-up hidden-xs-and-down"
@@ -42,7 +42,7 @@
     <v-main>
       <!-- Your main content here -->
     </v-main>
-  </v-app>
+  </div>
 </template>
 
 <script>
