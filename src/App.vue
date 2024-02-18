@@ -1,8 +1,10 @@
 <template>
-  <v-app>
+  <v-app class="primary">
     <NavBar />
-    <v-main class="mx-5">
-      <router-view />
+    <v-main>
+      <v-container fluid>
+        <router-view />
+      </v-container>
     </v-main>
   </v-app>
 </template>

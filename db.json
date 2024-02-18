@@ -2,73 +2,83 @@
   "rolls": [
     {
       "id": 1,
+      "type": "ROLL",
       "name": "Ролл с лососем",
       "description": "Свежий лосось, авокадо, огурец, соус унаги",
       "price": 350,
-      "image": "~@/assets/images/1.jpg"
+      "image": "1.jpg"
     },
     {
       "id": 2,
+      "type": "ROLL",
       "name": "Филадельфия",
       "description": "Лосось, сливочный сыр, огурец, икра летучей рыбы",
       "price": 400,
-      "image": "~@/assets/images/2.jpg"
+      "image": "2.jpg"
     },
     {
       "id": 3,
+      "type": "ROLL",
       "name": "Ролл с креветкой",
       "description": "Креветка, авокадо, огурец, соус спайси",
       "price": 320,
-      "image": "~@/assets/images/3.jpg"
+      "image": "3.jpg"
     },
     {
       "id": 4,
+      "type": "ROLL",
       "name": "Унаги маки",
       "description": "Угорь, омлет, огурец, соус унаги",
       "price": 380,
-      "image": "~@/assets/images/4.jpg"
+      "image": "4.jpg"
     },
     {
       "id": 5,
+      "type": "ROLL",
       "name": "Ролл с тунцом",
       "description": "Свежий тунец, огурец, лук, соус терияки",
       "price": 370,
-      "image": "~@/assets/images/5.jpg"
+      "image": "5.jpg"
     },
     {
       "id": 6,
+      "type": "ROLL",
       "name": "Калифорния",
       "description": "Краб, авокадо, огурец, икра тобико",
       "price": 300,
-      "image": "~@/assets/images/6.jpg"
+      "image": "6.jpg"
     },
     {
       "id": 7,
+      "type": "ROLL",
       "name": "Ролл с окунем",
       "description": "Свежий окунь, огурец, сливочный сыр, соус спайси",
       "price": 340,
-      "image": "~@/assets/images/7.jpg"
+      "image": "7.jpg"
     },
     {
       "id": 8,
+      "type": "ROLL",
       "name": "Темпура маки",
       "description": "Креветка темпура, огурец, сыр Филадельфия, соус спайси",
       "price": 420,
-      "image": "~@/assets/images/8.jpg"
+      "image": "8.jpg"
     },
     {
       "id": 9,
+      "type": "ROLL",
       "name": "Ролл с лавашем",
       "description": "Лосось, огурец, сливочный сыр, лаваш, соус унаги",
       "price": 360,
-      "image": "~@/assets/images/9.jpg"
+      "image": "9.jpg"
     },
     {
       "id": 10,
+      "type": "ROLL",
       "name": "Футомаки",
       "description": "Краб, огурец, авокадо, тунец, соус терияки",
       "price": 390,
-      "image": "~@/assets/images/10.jpg"
+      "image": "10.jpg"
     }
   ]
 }
